@@ -38,7 +38,7 @@ How to run it
 
 * cd \~/bedroom-environment-monitor
 * source .venv/bin/activate
-* python blynk.py
+* python "python blynk.py"
 
 
 
